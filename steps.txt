@@ -12,3 +12,10 @@ ML Models ---> train(x_train , y_train)
 Supervised ML Models ---> inn which we trained our model on labelled data . 
 
 (1). target data Numerical ---> LinearRegression 
+
+
+Upload all the data into Github . 
+
+
+AWS  + Local application ----> User(permission) ----> access_key , access_key_id ---> generate ---> github upload secrets . 
+
