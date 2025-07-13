@@ -25,3 +25,5 @@ y_pred=lr.predict(x_test)
 
 from sklearn.metrics import r2_score
 print(r2_score(y_test,y_pred))
+
+# hitanshi
