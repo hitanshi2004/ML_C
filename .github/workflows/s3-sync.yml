@@ -2,7 +2,7 @@ name: Sync Local Folder with S3
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
 
 jobs:
   upload-to-s3:
